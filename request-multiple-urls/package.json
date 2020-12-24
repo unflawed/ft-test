@@ -22,7 +22,7 @@
     "author": "Candidate",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.21.0"
+        "axios": "^0.21.1"
     },
     "devDependencies": {
         "@babel/preset-env": "^7.12.7",
